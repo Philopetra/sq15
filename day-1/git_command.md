@@ -13,3 +13,9 @@ git commit => push changes to local repo
 git push => push changes to remote repo
 to use the command, `git push`
 
+git pull => pull changes to remote repo
+to local repo, `git pull`
+
+<!-- Branching -->
+## A branch is a new/separate version of the main repo
+`git branch` => shows all branches
