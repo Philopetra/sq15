@@ -19,3 +19,5 @@ to local repo, `git pull`
 <!-- Branching -->
 ## A branch is a new/separate version of the main repo
 `git branch` => shows all branches
+
+`git checkout <branch_name>` => create a new branch
